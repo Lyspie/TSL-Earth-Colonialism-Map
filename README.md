@@ -1,6 +1,6 @@
-# TSL-Earth-Colonialism-Map
+# TSL Earth Colonialism Map
 
-WIP gigantic map of earth for Unciv with true start location centered around the restriction of access to the Americas, Australasia and most of Africa until the discovery of astronomy. Restriction of Sub-Saharan Africa has been done through the inclusion of the mythical Mountains of Kong and Mountains of the Moon, which were believed by some Europeans in the 19th century to have run unbroken from West Africa to Ethiopia or Somalia, making travel beyond near impossible by land.
+WIP gigantic map of earth (120x240) for Unciv with true start location centered around the restriction of access to the Americas, Australasia and most of Africa until the discovery of astronomy. Restriction of Sub-Saharan Africa has been done through the inclusion of the mythical Mountains of Kong and Mountains of the Moon, which were believed by some Europeans in the 19th century to have run unbroken from West Africa to Ethiopia or Somalia, making travel beyond near impossible by land.
 
 Currently there are 2 versions of this map that you will get when you download: one vanilla map without resources placed, which can be done automatically by opening the map in the editor and going to generate > partial > spread resources; I've left it blank for now as I plan on manually placing resources down to be at least somewhat geohistorically accurate, e.g. copper in Dalaskogen, coal in the Pennines, bananas in SE Asia (but not Africa or South America as they did not originate there).
 
